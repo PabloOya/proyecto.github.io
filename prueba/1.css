@@ -1,0 +1,13 @@
+html, body {
+    font-size: 10px;
+    background: #e5ebf4;
+    font-family: 'Open Sans', sans-serif !important;
+}
+body {margin:0;}
+header {
+    background:#2b303b;
+    text-align:center;
+    padding:10px;
+  }
+header p {color:#96b5b4;}
+  
